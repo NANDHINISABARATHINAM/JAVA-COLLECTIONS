@@ -8,6 +8,7 @@ public class Main {
         p.add(15);
         p.add(25);
         p.add(10);
+        //add/offer
         System.out.println(p);
         p.remove(20);
         System.out.println(p);
